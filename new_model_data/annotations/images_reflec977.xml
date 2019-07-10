@@ -1,0 +1,34 @@
+<annotation>
+  <folder>C:\Users\craterzone\Desktop\YOLO\darkflow-master\new_model_data\Dataset-1</folder>
+  <filename>images_reflec977.jpeg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>236</width>
+    <height>234</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sunglasses</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>33</ymin>
+      <xmax>152</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sunglasses</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>11</ymin>
+      <xmax>152</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+</annotation>

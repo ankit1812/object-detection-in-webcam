@@ -1,0 +1,10 @@
+<annotation>
+  <folder>C:\Users\craterzone\Desktop\YOLO\darkflow-master\new_model_data\Dataset-1</folder>
+  <filename>images_reflec1041.jpeg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>640</width>
+    <height>359</height>
+    <depth>3</depth>
+  </size>
+</annotation>
